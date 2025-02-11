@@ -7,6 +7,12 @@ Estos datos los leemos del array "datos", que tenemos disponible en el archivo d
 encuentra enlazado desde el HTML.
 -Añade a los elementos las clases necesarias del archivo estilos.css*/
 
+
+
+
+//Añadimos esto en otro commit distinto 
+
+
 let encabezadolvl2 = document.createElement("h2")
 encabezadolvl2.textContent="Pedro González Ballesta"
 encabezadolvl2.classList="encabezado"
